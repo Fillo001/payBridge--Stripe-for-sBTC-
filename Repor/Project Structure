@@ -1,0 +1,17 @@
+paybridge/
+│
+├── README.md
+├── docs/
+│   ├── OVERVIEW.md
+│   ├── ARCHITECTURE.md
+│   ├── CROSS_CHAIN_SETTLEMENT.md
+│   └── FUTURE_WORK.md
+│
+├── contracts/
+│   └── paybridge.clar
+│
+├── scripts/
+│   ├── deploy.js
+│   └── test.js
+│
+└── package.json
