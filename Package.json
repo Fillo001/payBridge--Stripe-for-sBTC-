@@ -1,0 +1,12 @@
+{
+  "name": "paybridge",
+  "version": "1.0.0",
+  "description": "Cross-chain payment settlement using sBTC",
+  "scripts": {
+    "deploy": "node scripts/deploy.js",
+    "test": "node scripts/test.js"
+  },
+  "dependencies": {
+    "clarinet-sdk": "^1.0.0"
+  }
+}
